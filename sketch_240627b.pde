@@ -1,10 +1,7 @@
-// Assignment
-float centerx = 1.5; 
+// Increment / Decrement
+int num1 = 4;
 
-// println(centerx  = centerx - 20);
-println(centerx  -= 20);
-println(centerx  += 20);
-println(centerx  *= 20);
-println(centerx  /= 20);
-
-println(centerx);
+num1++;
+println(num1);
+num1--;
+println(num1);
