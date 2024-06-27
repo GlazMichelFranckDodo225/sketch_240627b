@@ -1,3 +1,6 @@
 // Mathematical Expressions
-// Addition 
-println(5 + 3);
+// Multiplication
+float centerx = 1.5; 
+
+// println(centerx * 2);
+println(centerx / 3);
