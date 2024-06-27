@@ -1,6 +1,10 @@
-// Mathematical Expressions
-// Multiplication
+// Assignment
 float centerx = 1.5; 
 
-// println(centerx * 2);
-println(centerx / 3);
+// println(centerx  = centerx - 20);
+println(centerx  -= 20);
+println(centerx  += 20);
+println(centerx  *= 20);
+println(centerx  /= 20);
+
+println(centerx);
