@@ -2,9 +2,9 @@ int centerx;
 int centery;
 
 void setup() {
-    size(640, 480);
-    centerx = 320;
-    centery = 240;
+    size(640, 640);
+    centerx = width/2;
+    centery = height/2;
 }
 
 void draw() {
